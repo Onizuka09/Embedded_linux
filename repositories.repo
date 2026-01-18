@@ -1,0 +1,29 @@
+repositories:
+  project/yocto-layers/poky:
+    type: git
+    url: git://git.yoctoproject.org/poky
+    version: scarthgap
+    path: project/yocto-layers/poky
+  
+  project/yocto-layers/meta-openembedded:
+    type: git
+    url: https://github.com/openembedded/meta-openembedded.git
+    version: scarthgap
+    path: project/yocto-layers/meta-openembedded
+  
+  project/yocto-layers/meta-raspberrypi:
+    type: git
+    url: git://git.yoctoproject.org/meta-raspberrypi
+    version: scarthgap
+  
+  project/yocto-layers/meta-virtualization:
+    type: git
+    url: git://git.yoctoproject.org/meta-virtualization
+    version: scarthgap
+
+  project/yocto-layers/meta-gooeygui:
+    type: git
+    url: https://github.com/BinaryInkTN/meta-gooeygui.git
+    version: main
+  
+
