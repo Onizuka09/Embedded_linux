@@ -1,5 +1,5 @@
-# gooeygui-layer 
-a gooeyGUI Layer
+# project template for gooey Layer 
+This is a project template please follow the steps below
 ## Usage 
 - clone the repo
 - install dependencies git curl tar and vcstool for vsctool you can use the scripts/setup_vcstool.sh
